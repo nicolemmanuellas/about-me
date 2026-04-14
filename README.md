@@ -1,51 +1,21 @@
-# Emmanuella Nicole — Portfolio Website
+# Emmanuella Nicole Supratno — Portfolio
 
-Personal portfolio website built for GitHub Pages.
+Personal portfolio website for **Emmanuella Nicole Supratno**, a final-year Business Analytics student at Nanyang Technological University (NTU), Singapore.
 
-## 🚀 Setup Instructions
+## About
 
-### 1. Create your GitHub repository
-- Go to [github.com](https://github.com) → **New repository**
-- Name it exactly: `yourusername.github.io` (replace with your actual GitHub username)
-- Set to **Public**
-- Click **Create repository**
+I specialise in business analysis, data analytics, and stakeholder management — bridging data insights with strategic decision-making. Currently seeking Business Analyst roles in Singapore.
 
-### 2. Upload your files
-Upload these files to the root of the repo:
-```
-index.html                        ← the portfolio website
-Emmanuella_Nicole_CV_2026.pdf     ← your CV (for the download button)
-README.md                         ← this file
-```
+- **Education:** B.Bus (Business Analytics), NTU Singapore — CGPA 4.54/5.00, graduating May 2026
+- **Experience:** CapitaLand · SoDrama Entertainment · Shopee
+- **Skills:** Python, SQL, Power BI, Microsoft Fabric, Tableau, R, XGBoost
 
-### 3. Enable GitHub Pages
-- Go to **Settings** → **Pages**
-- Under *Source*, select **Deploy from a branch**
-- Branch: `main`, folder: `/ (root)`
-- Click **Save**
+## Links
 
-### 4. Your site will be live at:
-```
-https://yourusername.github.io
-```
-(Takes ~1–2 minutes to deploy)
+- **Portfolio website:** [nicolemmanuella.github.io](https://nicolemmanuella.github.io)
+- **LinkedIn:** [linkedin.com/in/emmanuella-nicole](https://www.linkedin.com/in/emmanuella-nicole)
+- **Email:** nicolesg019@gmail.com
 
----
+## Tech stack
 
-## 📁 File Structure
-```
-/
-├── index.html                    ← main portfolio page
-├── Emmanuella_Nicole_CV_2026.pdf ← CV download
-└── README.md
-```
-
-## ✏️ How to update content
-All content is in `index.html`. Edit directly on GitHub or clone the repo locally.
-
-Key sections to update:
-- **Hero stats** — search for `stat-card` 
-- **About text** — search for `about-body`
-- **Experience** — search for `exp-item`
-- **Projects** — search for `project-card`
-- **Contact links** — search for `contact-link`
+This site is built with plain HTML and CSS — no frameworks, no build tools. Hosted on GitHub Pages.
