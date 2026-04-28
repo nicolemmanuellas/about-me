@@ -12,7 +12,7 @@ I specialise in business analysis, data analytics, and stakeholder management â€
 
 ## Links
 
-- **Portfolio website:** [nicolemmanuella.github.io](https://nicolemmanuella.github.io)
+- **Portfolio website:** [https://nicolemmanuella.github.io](https://nicolemmanuellas.github.io/about-me/)
 - **LinkedIn:** [linkedin.com/in/emmanuella-nicole](https://www.linkedin.com/in/emmanuella-nicole)
 - **Email:** nicolesg019@gmail.com
 
